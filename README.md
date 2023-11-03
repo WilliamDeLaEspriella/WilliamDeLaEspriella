@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/WilliamDeLaEspriella](https://github.com/WilliamDeLaEspriella)
 
-- 📝 I regularly write articles on [https://medium.com/@wdelaespriella](https://medium.com/@wdelaespriella)
-
 - 💬 Ask me about **rails,react, node js and aws**
 
 - 📫 How to reach me **wdelaespriella@hotmail.com**
